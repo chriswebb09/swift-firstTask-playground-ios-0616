@@ -6,8 +6,8 @@ var myBankBalance2: Int = 100  // being explicit, using type annotation
 
 
 //: **Question 2**
-let puppyName = "Bella"           // using type inference
-let puppyName2: String = "Bella"  // using type annotation
+var puppyName = "Bella"           // using type inference
+var puppyName2: String = "Bella"  // using type annotation
 
 
 //: **Question 3**
